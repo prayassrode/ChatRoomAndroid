@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">InClass10</string>
+    <string name="emailHint">Email</string>
+    <string name="passwordHint">Password</string>
+    <string name="loginButtonText">Login</string>
+    <string name="signupButtonText">Sign Up</string>
+    <string name="preference_file_key">IN CLASS 10 SESSION TOKEN</string>
+    <string name="session_token">SESSION TOKEN</string>
+    <string name="user_first_name">FIRST NAME</string>
+    <string name="user_last_name">LAST NAME</string>
+    <string name="user_id">USER ID</string>
+    <string name="firstNameHint">First Name</string>
+    <string name="lastNameHint">Last Name</string>
+    <string name="confirmPasswordHint">Confirm Password</string>
+    <string name="cancelButtonText">Cancel</string>
+    <string name="userNameDefault">User</string>
+    <string name="threadNameHint">Add New Thread</string>
+    <string name="threadListHeaderText">Current Threads</string>
+    <string name="threadTitleDefault">Thread Name</string>
+    <string name="messageFieldHint">Type message to send</string>
+    <string name="messageBodyDefault">Message contents</string>
+    <string name="timestampDefault">Timestamp</string>
+</resources>
